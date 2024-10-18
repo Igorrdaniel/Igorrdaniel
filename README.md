@@ -11,7 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align= "center" alt="Igor-flutter" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align= "center" alt="Igor-Postgres" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align= "center" alt="Igor-Intellij" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
