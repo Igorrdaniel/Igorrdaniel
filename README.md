@@ -2,6 +2,7 @@
 
 - 🌱 Desenvolvedor Java com Spring boot
 - 📫 Contate-me no e-mail: igordaniel11.id@gmail.com
+- 📫 Contate-me via LinkedIn: https://www.linkedin.com/in/igordanielferreiravieira/
 
 <div align="center">
   <a href="https://github.com/Igorrdaniel">
